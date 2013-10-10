@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Next Actions
 ==========================================================================================
 . create the github rep
@@ -23,3 +24,7 @@ x 2. Building and Testing
 10. Building AngularJS Web Applications for an International Audience
 11. Writing Robust AngularJS Web Applications
 12. Packaging and Deploying AngularJS Web Applications
+=======
+ng-template
+===========
+>>>>>>> c2829520672f8be37c2b42ef930351b4233e12d2
