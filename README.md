@@ -11,7 +11,7 @@ Next Actions
 Chapters
 ==========================================================================================
 1. Angular Zen (x)
-2. Building and Testing (x)
+2. Building and Testing (x 2013.10.10)
 3. Communicating with a Back-end Server
 4. Displaying and Formatting Data
 5. Creating Advanced Forms
