@@ -1,6 +1,5 @@
 Next Actions
 ==========================================================================================
-- create the github rep
 - create the file structure
 - implement a controller test 
 - implement a service test
