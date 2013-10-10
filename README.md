@@ -1,13 +1,13 @@
 Next Actions
 ==========================================================================================
-# create the github rep
-# create the file structure
-# implement a controller test 
-# implement a service test
-# implement a mock test
-# use karma runner extensions
-# debugg --> enable debugging in browser to stop browser
-# mock.dump(object)
+- create the github rep
+- create the file structure
+- implement a controller test 
+- implement a service test
+- implement a mock test
+- use karma runner extensions
+- debugg --> enable debugging in browser to stop browser
+- mock.dump(object)
 
 Chapters
 ==========================================================================================
