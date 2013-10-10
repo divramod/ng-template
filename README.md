@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Next Actions
 ==========================================================================================
 . create the github rep
@@ -12,8 +11,9 @@ Next Actions
 
 Chapters
 ==========================================================================================
-x 1. Angular Zen
-x 2. Building and Testing
+1. Angular Zen
+2. Building and Testing
+---
 3. Communicating with a Back-end Server
 4. Displaying and Formatting Data
 5. Creating Advanced Forms
@@ -24,7 +24,3 @@ x 2. Building and Testing
 10. Building AngularJS Web Applications for an International Audience
 11. Writing Robust AngularJS Web Applications
 12. Packaging and Deploying AngularJS Web Applications
-=======
-ng-template
-===========
->>>>>>> c2829520672f8be37c2b42ef930351b4233e12d2
